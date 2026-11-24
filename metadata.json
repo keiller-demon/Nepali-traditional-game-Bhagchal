@@ -1,0 +1,6 @@
+{
+  "name": "Bagh-Chal (बाघचाल) — Nepali Tigers and Goats",
+  "description": "A digital cultural heritage preservation platform and strategy board game for Bagh-Chal (बाघचाल), Nepal's traditional asymmetric Tigers and Goats game, featuring an offline-ready rules engine, AI opponent, bilingual interactive tutorials, history, and open archive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
